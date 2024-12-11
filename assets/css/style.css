@@ -27,7 +27,7 @@ body{
 
 
 .banner{
-    background: radial-gradient(var(--cor-padrao-hover), var(--cor-padrao));
+    background: radial-gradient(var(--cor-btn-hover), var(--cor-padrao));
 }
 
 .banner .linha{
